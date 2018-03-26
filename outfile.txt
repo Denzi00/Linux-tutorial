@@ -1,0 +1,10 @@
+another.php
+file2.php
+file3.php
+file.php
+one.php
+outfile.txt
+somethingelse.php
+text1.txt
+text2.txt
+y.PhP
